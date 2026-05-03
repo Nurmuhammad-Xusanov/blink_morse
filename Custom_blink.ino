@@ -56,5 +56,5 @@ void loop() {
    dot();
    dot();
    dot();
-   delay(2000);
+   delay(5000);
 }
